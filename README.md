@@ -1,1 +1,1 @@
-# event-sys-fastapi
+# Event API System using FastAPI
